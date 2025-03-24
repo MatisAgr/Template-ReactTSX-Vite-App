@@ -1,0 +1,2 @@
+const APP_NAME = 'TEMPLATE TAILWIND REACT APP';
+export default APP_NAME;
