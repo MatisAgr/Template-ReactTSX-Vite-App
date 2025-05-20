@@ -10,6 +10,7 @@ export default function Home() {
     { name: "Axios", version: "1.8.4", description: "Client HTTP pour les requêtes API" },
     { name: "React Icons", version: "5.5.0", description: "Bibliothèque d'icônes" },
     { name: "Dotenv", version: "16.4.7", description: "Gestion des variables d'environnement" },
+    { name: "Js Cookie", version: "3.0.6", description: "Gestion des cookies" },
   ];
 
   return (

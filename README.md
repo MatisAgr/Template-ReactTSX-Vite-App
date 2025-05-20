@@ -24,6 +24,7 @@ Un template moderne pour démarrer rapidement vos projets React avec TypeScript,
 - 💅 **Framer Motion** - Animations fluides et intuitives
 - 🎭 **React Icons** - Large collection d'icônes populaires
 - 🔐 **Dotenv** - Gestion sécurisée des variables d'environnement
+- 🍪 **js-cookie** - Gestion simplifiée des cookies côté client
 
 ## 📦 Technologies incluses
 
@@ -37,6 +38,7 @@ Un template moderne pour démarrer rapidement vos projets React avec TypeScript,
 | Axios | 1.8.4 | Client HTTP pour les requêtes API |
 | React Icons | 5.5.0 | Bibliothèque d'icônes |
 | Dotenv | 16.4.7 | Gestion des variables d'environnement |
+| js-cookie | 3.0.6 | Gestion des cookies côté client |
 | TypeScript | 5.7.2 | Langage de programmation typé |
 | Vite | 6.2.0 | Serveur de développement et bundler |
 | ESLint | 9.21.0 | Linting et analyse statique du code |
